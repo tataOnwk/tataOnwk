@@ -1,16 +1,13 @@
 ## Hi there 👋
+Aqui estão algumas ideias para você começar:
 
-<!--
-**tataOnwk/tataOnwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou no colegio padre morelli
+- 🌱 Atualmente estou aprendendo linguagem de programação javascript
+- 👯 Procuro contribuir em programação e compatilhar meus codigos
+- 🤔 Estou procurando ajuda com meus estudos
+- 💬 Pergunte-me sobre meus estudos
+- 📫 Como entrar em contato comigo: thaina.kania@escola.pr.gov.br
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: estou aprendendo a programar
+- 👉[alura](www.alura.com.br)
+- ![](https://media1.tenor.com/m/10a3bjM_b6kAAAAd/alvin-and-the-chipmunks-alvin.gif)
